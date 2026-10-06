@@ -19,6 +19,7 @@ public class StudiKasus125 {
             diskon = totalHarga * 10 / 100;
         }
         System.out.println("Diskon\t\t: Rp " + diskon);
+        
         totalBayar = totalHarga - diskon;
         System.out.println("Total bayar\t: Rp " + totalBayar);
         
