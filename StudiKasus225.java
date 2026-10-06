@@ -51,7 +51,6 @@ public class StudiKasus225 {
         } else {
             status = "Kegiatan lainnya tidak memperoleh dana penghargaan.";
         }
-        
         System.out.println("Status : " + status);
     }
 }
